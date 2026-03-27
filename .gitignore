@@ -1,0 +1,7 @@
+# Only README.md should be in the public repo
+CHANGELOG.md
+*.gif
+*.png
+*.json
+node_modules/
+index.html

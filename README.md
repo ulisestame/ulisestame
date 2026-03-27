@@ -1,5 +1,7 @@
+<h1 align="center" class=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  Hi my name is Ulises Tame</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Backend+Engineer+%7C+AI+Systems;Python+%7C+FastAPI+%7C+LangChain;Building+intelligent+production+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Backend+Engineer+%7C+AI+Systems;Python+%7C+FastAPI+%7C+LangChain;Building+intelligent+production+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,33 +12,23 @@
 
 ---
 
-<table align="center">
-<tr><td>
+<img align="right" src="https://res.cloudinary.com/dli21acxz/image/upload/v1774649105/developer_hd_xazkt3.gif" width="230">
 
-🧑‍💻 **Name:** Ulises Tame
+### About Me
 
-🎯 **Role:** Backend Engineer | AI Specialization
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20"> &nbsp; Backend Engineer specializing in **AI-powered systems**
 
-📍 **Location:** Mexico City, MX
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="20"> &nbsp; Based in **Mexico City** · Open to remote (LATAM/US)
 
-🗣️ **Languages:** Spanish (Native) · English (C1 — TOEFL)
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Rocket.png" width="20"> &nbsp; Building production-grade **APIs, data pipelines & LLM integrations**
 
-⚙️ **Backend:** Python · FastAPI · SQLAlchemy · Pydantic · REST APIs
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Briefcase.png" width="20"> &nbsp; **5+ years** in software engineering, UX/UI, IT audit & AI automation
 
-🤖 **AI/LLM:** LangChain · LangGraph · OpenAI API · Claude API · RAG · pgvector · Pinecone
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20"> &nbsp; Previously at **EY** · Cross-functional across LATAM & US markets
 
-🗄️ **Databases:** PostgreSQL · pgvector · Redis
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Smilies/Speech%20Balloon.png" width="20"> &nbsp; Bilingual: **Spanish** (native) · **English** (C1 — TOEFL certified)
 
-🚀 **DevOps:** Docker · GitHub Actions · AWS · Coolify · Cloudflare
-
-🖥️ **Frontend:** React · Next.js · TypeScript · HTML/CSS
-
-🧪 **Testing:** pytest · Integration Testing · TDD
-
-💡 **Focus:** Building the APIs, data pipelines, and infrastructure that make AI features reliable, observable, and production-ready.
-
-</td></tr>
-</table>
+<br>
 
 ---
 
@@ -119,23 +111,9 @@ Most teams struggle with AI not because their models are wrong — but because t
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulisestame&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulisestame&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ulisestame&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</p>
-
----
-
-<h2 align="center">Beyond Code</h2>
-
-<p align="center">
-  <strong>5+ years</strong> across software engineering, UX/UI, IT audit, and AI automation<br>
-  <strong>Previously at EY</strong> · Cross-functional experience across LATAM and US markets<br>
-  <strong>Self-hosted infra</strong> · n8n on GCP with Docker, Coolify, Cloudflare Tunnel<br>
-  <strong>Bilingual</strong> · Spanish (native) · English (C1 — TOEFL certified)
+  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ulisestame&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="195" src="https://streak-stats.demolab.com?user=ulisestame&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -144,34 +122,3 @@ Most teams struggle with AI not because their models are wrong — but because t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulisestame&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="98%" alt="Contribution Graph"/>
 </p>
 
----
-
-<details>
-<summary><h2>🐍 About Me (click to expand)</h2></summary>
-
-```python
-class BackendEngineer:
-
-    def __init__(self):
-        self.name = "Ulises Tame"
-        self.role = "Backend Engineer | AI Specialization"
-        self.location = "Mexico City, MX"
-        self.languages = ["Spanish (Native)", "English (C1 — TOEFL)"]
-
-    def get_stack(self):
-        return {
-            "backend":     ["Python", "FastAPI", "SQLAlchemy", "Pydantic", "REST APIs"],
-            "ai_and_llm":  ["LangChain", "LangGraph", "OpenAI API", "Claude API",
-                            "RAG Pipelines", "pgvector", "Pinecone", "Prompt Engineering"],
-            "databases":   ["PostgreSQL", "pgvector", "Redis"],
-            "devops":      ["Docker", "GitHub Actions", "AWS", "Coolify", "Cloudflare"],
-            "frontend":    ["React", "Next.js", "TypeScript", "HTML/CSS"],
-            "testing":     ["pytest", "Integration Testing", "TDD"],
-        }
-
-    def get_focus(self):
-        return "Building the APIs, data pipelines, and infrastructure " \
-               "that make AI features reliable, observable, and production-ready."
-```
-
-</details>
