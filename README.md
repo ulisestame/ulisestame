@@ -143,3 +143,35 @@ Most teams struggle with AI not because their models are wrong — but because t
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulisestame&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="98%" alt="Contribution Graph"/>
 </p>
+
+---
+
+<details>
+<summary><h2>🐍 About Me (click to expand)</h2></summary>
+
+```python
+class BackendEngineer:
+
+    def __init__(self):
+        self.name = "Ulises Tame"
+        self.role = "Backend Engineer | AI Specialization"
+        self.location = "Mexico City, MX"
+        self.languages = ["Spanish (Native)", "English (C1 — TOEFL)"]
+
+    def get_stack(self):
+        return {
+            "backend":     ["Python", "FastAPI", "SQLAlchemy", "Pydantic", "REST APIs"],
+            "ai_and_llm":  ["LangChain", "LangGraph", "OpenAI API", "Claude API",
+                            "RAG Pipelines", "pgvector", "Pinecone", "Prompt Engineering"],
+            "databases":   ["PostgreSQL", "pgvector", "Redis"],
+            "devops":      ["Docker", "GitHub Actions", "AWS", "Coolify", "Cloudflare"],
+            "frontend":    ["React", "Next.js", "TypeScript", "HTML/CSS"],
+            "testing":     ["pytest", "Integration Testing", "TDD"],
+        }
+
+    def get_focus(self):
+        return "Building the APIs, data pipelines, and infrastructure " \
+               "that make AI features reliable, observable, and production-ready."
+```
+
+</details>
