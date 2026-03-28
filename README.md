@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Backend+Engineer+%7C+AI+Systems;Python+%7C+FastAPI+%7C+LangChain;Building+intelligent+production+systems">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Backend+Engineer+%7C+AI+Systems;Python+%7C+FastAPI+%7C+LangChain;Building+intelligent+production+systems">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Backend+Engineer+%7C+AI+Systems;Python+%7C+FastAPI+%7C+LangChain;Building+intelligent+production+systems" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=e6edf3&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Backend+Engineer+%7C+AI+Systems;Python+%7C+FastAPI+%7C+LangChain;Building+intelligent+production+systems">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=1f2328&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Backend+Engineer+%7C+AI+Systems;Python+%7C+FastAPI+%7C+LangChain;Building+intelligent+production+systems">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=e6edf3&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Backend+Engineer+%7C+AI+Systems;Python+%7C+FastAPI+%7C+LangChain;Building+intelligent+production+systems" alt="Typing SVG" />
   </picture>
 </p>
 
@@ -15,11 +15,9 @@
 </p>
 
 
-<table>
-<tr>
-<td valign="top" width="65%">
+<img align="right" src="https://res.cloudinary.com/dli21acxz/image/upload/v1774649105/developer_hd_xazkt3.gif" width="230">
 
-## About Me
+### About Me
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Briefcase.png" width="20"> &nbsp; **5+ years** in **software engineering**, **UX/UI**, **IT audit** & **AI automation**
 
@@ -33,17 +31,10 @@
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Smilies/Speech%20Balloon.png" width="20"> &nbsp; **Bilingual**: **Spanish** (native) · **English** (C1 — TOEFL certified)
 
-</td>
-<td align="center" valign="middle" width="35%">
-
-<img src="https://res.cloudinary.com/dli21acxz/image/upload/v1774649105/developer_hd_xazkt3.gif" width="230">
-
-</td>
-</tr>
-</table>
+<br clear="all">
 
 ---
-## What I Do
+### What I Do
 I design and build backend systems in Python. API architecture, database modeling, testing, and AI integration for production services.
 
 My day to day involves building APIs, writing tests, modeling data, and orchestrating LLM agents with AI frameworks.
