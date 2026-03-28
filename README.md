@@ -19,21 +19,20 @@
 
 ### About Me
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Briefcase.png" width="20"> &nbsp; **5+ years** in **software engineering**, **UX/UI**, **IT audit** & **AI automation**
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Briefcase.png" width="20" align="absmiddle"> &nbsp; **5+ years** in **software engineering**, **UX/UI**, **IT audit** & **AI automation**
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20"> &nbsp; **Python Backend Developer** specialized in **AI-powered systems**
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" align="absmiddle"> &nbsp; **Python Backend Developer** specialized in **AI-powered systems**
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="20"> &nbsp; Based in **Mexico City** — Open to work remote (LATAM/US)
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="20" align="absmiddle"> &nbsp; Based in **Mexico City** — Open to work remote (LATAM/US)
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Rocket.png" width="20"> &nbsp; **Building production**-grade **APIs, data pipelines & LLM integrations**
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Rocket.png" width="20" align="absmiddle"> &nbsp; **Building production**-grade **APIs, data pipelines & LLM integrations**
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20"> &nbsp; Working at **Nookra Agency** as **Backend & AI Engineer**
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" align="absmiddle"> &nbsp; Working at **Nookra Agency** as **Backend & AI Engineer**
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Smilies/Speech%20Balloon.png" width="20"> &nbsp; **Bilingual**: **Spanish** (native) · **English** (C1 — TOEFL certified)
-
-<br clear="all">
+💬 &nbsp; **Bilingual**: **Spanish** (native) · **English** (C1 — TOEFL certified)
 
 ---
+
 ### What I Do
 I design and build backend systems in Python. API architecture, database modeling, testing, and AI integration for production services.
 
