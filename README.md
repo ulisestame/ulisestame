@@ -1,7 +1,11 @@
 <h1 align="center" class=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  Hi my name is Ulises Tame</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Backend+Engineer+%7C+AI+Systems;Python+%7C+FastAPI+%7C+LangChain;Building+intelligent+production+systems" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Backend+Engineer+%7C+AI+Systems;Python+%7C+FastAPI+%7C+LangChain;Building+intelligent+production+systems">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Backend+Engineer+%7C+AI+Systems;Python+%7C+FastAPI+%7C+LangChain;Building+intelligent+production+systems">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Backend+Engineer+%7C+AI+Systems;Python+%7C+FastAPI+%7C+LangChain;Building+intelligent+production+systems" alt="Typing SVG" />
+  </picture>
 </p>
 
 <p align="center">
@@ -10,9 +14,10 @@
   <img src="https://komarev.com/ghpvc/?username=ulisestame&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
----
 
-<img align="right" src="https://res.cloudinary.com/dli21acxz/image/upload/v1774649105/developer_hd_xazkt3.gif" width="230">
+<table>
+<tr>
+<td valign="top" width="65%">
 
 ## About Me
 
@@ -24,10 +29,18 @@
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Rocket.png" width="20"> &nbsp; **Building production**-grade **APIs, data pipelines & LLM integrations**
 
-
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20"> &nbsp; Working at **Nookra Agency** as **Backend & AI Engineer**
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Smilies/Speech%20Balloon.png" width="20"> &nbsp; **Bilingual**: **Spanish** (native) · **English** (C1 — TOEFL certified)
+
+</td>
+<td align="center" valign="middle" width="35%">
+
+<img src="https://res.cloudinary.com/dli21acxz/image/upload/v1774649105/developer_hd_xazkt3.gif" width="230">
+
+</td>
+</tr>
+</table>
 
 ---
 ## What I Do
@@ -39,7 +52,6 @@ My stack is **Python · FastAPI · PostgreSQL · pytest · LangChain · LangGrap
 
 Most of my work sits where backend meets AI, making sure LLM features work like any other production service.
 
----
 
 <h1 align="center">Tech Stack</h1>
 
