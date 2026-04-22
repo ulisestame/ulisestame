@@ -19,7 +19,7 @@
 
 ### About Me
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Briefcase.png" width="20" align="absmiddle"> &nbsp; **5+ years** in **software engineering**, **UX/UI**, **IT audit** & **AI automation**
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Briefcase.png" width="20" align="absmiddle"> &nbsp; **Sr. Fullstack Developer & AI Engineer** with over 5+ years' experience building **Web Applications**, **AI Workflows** & **Software Solutions**
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" align="absmiddle"> &nbsp; **Python Backend Developer** specialized in **AI-powered systems**
 
@@ -27,9 +27,9 @@
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Rocket.png" width="20" align="absmiddle"> &nbsp; **Building production**-grade **APIs, data pipelines & LLM integrations**
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" align="absmiddle"> &nbsp; Working at **Nookra Agency** as **Backend & AI Engineer**
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" align="absmiddle"> &nbsp; Working as **Sr. Software Engineer & AI Automation Specialist**
 
-💬 &nbsp; **Bilingual**: **Spanish** (native) · **English** (C1 — TOEFL certified)
+💬 &nbsp; **Bilingual**: **English** (C1 — TOEFL certified) · **Spanish** (native)
 
 ---
 
@@ -72,6 +72,7 @@ Most of my work sits where backend meets AI, making sure LLM features work like 
 <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API"/>
+<img src="https://img.shields.io/badge/Anthropic_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic SDK"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
 
 </td>
@@ -104,6 +105,7 @@ Most of my work sits where backend meets AI, making sure LLM features work like 
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro"/>
 
 </td>
 <td align="center" valign="top" width="33%">
