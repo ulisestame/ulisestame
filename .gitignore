@@ -1,8 +1,9 @@
-# Only README.md should be in the public repo
-.DS_Store
-CHANGELOG.md
-assets/
-*.gif
-*.png
-*.json
-node_modules/
+# Only README.md should be in the public repo.
+# Whitelist pattern: everything is ignored by default.
+# To track a new file, add an explicit !filename entry below.
+
+*
+
+# Explicitly allowed (tracked in the public repo)
+!.gitignore
+!README.md
