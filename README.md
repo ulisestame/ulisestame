@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/ulisestame"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ulises.g.tame@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ulisestame&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 
